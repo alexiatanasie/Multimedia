@@ -1,0 +1,8 @@
+#board{
+    border:  1px solid black;
+}
+
+#canvasContainer{
+    display: flex;
+    justify-content: center;
+}
